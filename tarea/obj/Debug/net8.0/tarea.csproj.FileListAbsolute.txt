@@ -1,0 +1,14 @@
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\bin\Debug\net8.0\tarea.exe
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\bin\Debug\net8.0\tarea.deps.json
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\bin\Debug\net8.0\tarea.runtimeconfig.json
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\bin\Debug\net8.0\tarea.dll
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\bin\Debug\net8.0\tarea.pdb
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\tarea.AssemblyInfoInputs.cache
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\tarea.AssemblyInfo.cs
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\tarea.csproj.CoreCompileInputs.cache
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\tarea.dll
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\refint\tarea.dll
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\tarea.pdb
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\tarea.genruntimeconfig.cache
+C:\Users\hola\Desktop\HTML_N_CODE\tarea\obj\Debug\net8.0\ref\tarea.dll
